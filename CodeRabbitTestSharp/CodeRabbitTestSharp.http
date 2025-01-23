@@ -1,0 +1,6 @@
+@CodeRabbitTestSharp_HostAddress = http://localhost:5265
+
+GET {{CodeRabbitTestSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
